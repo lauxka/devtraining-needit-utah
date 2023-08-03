@@ -212,7 +212,9 @@
   "extensionPoints" : [ ],
   "isNonDestructive" : false,
   "items" : [ ],
-  "styles" : null
+  "styles" : {
+    "background" : "#8586BC"
+  }
 }, {
   "elementId" : "reports_row",
   "elementLabel" : "Reports row",
@@ -1872,7 +1874,7 @@
     "items" : [{"element_id":"header_row","styles":{"width":"100%","flex":"custom","background":"#81B5A1"}},{"element_id":"reports_row","styles":{"background":"#B3D4C7","width":"100%"}},{"element_id":"list_row","styles":{"width":"100%"}}],
     "root" : null,
     "rules" : null,
-    "styles" : {"flex-direction":"column","align-items":"center"},
+    "styles" : {"flex-direction":"column","align-items":"center","background":"rgb(var(--now-color--neutral-1))"},
     "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
     "type" : "flex"
   },
@@ -1914,16 +1916,16 @@
         <state_properties>[ ]</state_properties>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-02 17:53:55</sys_created_on>
-        <sys_id>cab06ceb47d431101325f088436d43ba</sys_id>
-        <sys_mod_count>47</sys_mod_count>
+        <sys_created_on>2023-08-03 15:34:52</sys_created_on>
+        <sys_id>437a8db3475031101325f088436d4344</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>NeedIt Admin Home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_macroponent_cab06ceb47d431101325f088436d43ba</sys_update_name>
+        <sys_update_name>sys_ux_macroponent_437a8db3475031101325f088436d4344</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-03 15:30:52</sys_updated_on>
+        <sys_updated_on>2023-08-03 16:13:55</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=cab06ceb47d431101325f088436d43ba"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=437a8db3475031101325f088436d4344"/>
 </record_update>
